@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: GreenYellow;
+        padding: 5px;
+}
+main i {
+    font-size: 60px;
+    text-align: center;
+    color: Red;
+}
